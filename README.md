@@ -1,2 +1,2 @@
 # Moose 
-I took ready template form internet and made backend part of this project
+I took ready template form the internet and made backend part of this project
